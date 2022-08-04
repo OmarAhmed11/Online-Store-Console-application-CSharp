@@ -1,0 +1,16 @@
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\bin\Debug\net5.0\OnlineStore.exe
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\bin\Debug\net5.0\OnlineStore.deps.json
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\bin\Debug\net5.0\OnlineStore.runtimeconfig.json
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\bin\Debug\net5.0\OnlineStore.runtimeconfig.dev.json
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\bin\Debug\net5.0\OnlineStore.dll
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\bin\Debug\net5.0\ref\OnlineStore.dll
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\bin\Debug\net5.0\OnlineStore.pdb
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\obj\Debug\net5.0\OnlineStore.csproj.AssemblyReference.cache
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\obj\Debug\net5.0\OnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\obj\Debug\net5.0\OnlineStore.AssemblyInfoInputs.cache
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\obj\Debug\net5.0\OnlineStore.AssemblyInfo.cs
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\obj\Debug\net5.0\OnlineStore.csproj.CoreCompileInputs.cache
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\obj\Debug\net5.0\OnlineStore.dll
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\obj\Debug\net5.0\ref\OnlineStore.dll
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\obj\Debug\net5.0\OnlineStore.pdb
+D:\ITI Dot Net\C#\Project\OS\OnlineStore\OnlineStore\obj\Debug\net5.0\OnlineStore.genruntimeconfig.cache
